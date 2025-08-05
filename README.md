@@ -35,9 +35,9 @@ Interactive Tableau dashboards can be viewed [https://public.tableau.com/app/pro
 
     Phase 2 project/
     │
-    ├── movie_analysis.ipynb                      # Main analysis notebook
+    ├── README.md                                 # This file
     ├── Movie_Industry_Analysis_Presentation.pptx # Presentation
-    └── README.md                                 # This file
+    └── movie_analysis.ipynb                      # Main analysis notebook
 
 ## How to Use
 
