@@ -33,7 +33,7 @@ Interactive Tableau dashboards can be viewed [https://public.tableau.com/app/pro
 
 ## Project Structure
 
-    movie-analysis/
+    Phase 2 project/
     │
     ├── movie_analysis.ipynb                      # Main analysis notebook
     ├── Movie_Industry_Analysis_Presentation.pptx # Presentation
